@@ -17,8 +17,8 @@
 ### Executar o código:
 
 - Abra o progama na IDE do Arduíno, compile o programa e execute-o no NodeMCU.
-- Abra o wifi do equipamento (celular, computador) e conect a rede com o nome "Planet Makers" e senha "17227285".
-- Abra o navegador e acesse o endereço `http://192.168.4.1
+- Abra o wifi do equipamento (celular, computador) e conect a rede com o nome: `Planet Makers` e senha: `17227285`.
+- Abra o navegador e acesse o endereço `192.168.4.1
 
 ### Licença:
 
